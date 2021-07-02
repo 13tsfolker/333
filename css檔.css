@@ -1,0 +1,31 @@
+.up{
+    position: fixed;
+    top: 0;
+    background-color: darksalmon;
+    width: 100%;
+    left: 0%;
+    letter-spacing: 20px;
+    text-shadow: 0.01em 0.01em 0.05em #333;
+
+
+}
+body{
+    background-color: lightslategrey;
+}
+.內{
+    margin: 90px;
+
+}
+table,td
+{border: 5px solid black;
+    border-collapse: collapse;
+
+}
+.p{ 
+    font-size: 50px；
+
+}
+.picture{ 
+    position: fixed;right: 0px; top: 100px;
+
+}
